@@ -49,7 +49,7 @@ To explore the notebooks in this repository:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/SsemuliJoseph/Applied-Data-Science-Python-Uni-Michigan.git
    ```
 2. Install the required dependencies:
    ```bash
